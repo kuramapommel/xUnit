@@ -6,3 +6,4 @@
 * [ ] Even if setUp fails, call tearDown.
 * [ ] Run mnultiple tests.
 * [ ] Output collected test results.
+* [ ] Make a record of log with WasRun.
