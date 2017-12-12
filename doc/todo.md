@@ -2,7 +2,8 @@
 
 * [x] Call a test method.
 * [x] Call setUp first.
-* [ ] Call tearDown later.
+* [x] Call tearDown later.
 * [ ] Even if setUp fails, call tearDown.
 * [ ] Run mnultiple tests.
 * [ ] Output collected test results.
+* [x] Make a record of log with WasRun.
